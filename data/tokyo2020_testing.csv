@@ -1,4 +1,4 @@
-﻿     ,airport_ntests,airport_npos,screening_ntests,screening_npos,other_npos,total_npos,cum_total_npos,overseas_arrivals
+﻿date,airport_ntests,airport_npos,screening_ntests,screening_npos,other_npos,total_npos,cum_total_npos,overseas_arrivals
 2021-07-16,3158,4,6195,4,7,15,NA,NA
 2021-07-17,4149,7,8185,2,5,14,NA,NA
 2021-07-18,4801,2,11869,0,1,3,58,28660
@@ -34,4 +34,5 @@
 2021-08-17,346,0,2496,1,NA,NA,NA,44990
 2021-08-18,1153,1,3312,3,NA,NA,NA,46143
 2021-08-19,1420,0,4731,7,NA,NA,NA,47563
-2021-08-20,NA,1,6279,,NA,NA,NA,NA
+2021-08-20,NA,1,6279,2,NA,NA,NA,NA
+2021-08-21,NA,1,7829,6,NA,NA,NA,NA
