@@ -1,0 +1,10 @@
+﻿id,name,age,arrived,pos_date1,pos_location,vaccinated,vax_status,symptoms,last_vax_yyyymm,role,source1,source2,source3,note
+O-068,Fernanda Aguirre,,2021-07-19,2021-07-19,airport,yes,fully vaccinated,,2021-04-01,,https://www.asahi.com/ajw/articles/14403500,,,
+O-061,Ondrej Perusic,,2021-07-16,2021-07-18,olympic village,,,yes,,,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,https://www.asahi.com/ajw/articles/14401488,,same flight as other Czech Republic cases
+O-053,Thabiso Monyane or Kamohelo Mahlatsi,,,,olympic village,,,,,,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,,,
+O-054,Thabiso Monyane or Kamohelo Mahlatsi,,,,olympic village,,,,,,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,,,
+O-083,Pavel Sirucek,,2021-07-16,,olympic village,,,,,,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
+O-103,Marketa Nausch Slukova,33,2021-07-16,,olympic village,,,,,,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
+O-106,Michal Schlegel,,2021-07-16,,olympic village,,,,,,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
+,Vlastimil Vorcacek,,2021-07-16,2021-07-16,airport,no,,,,doctor,https://www.stuff.co.nz/sport/olympics/125841889/tokyo-olympics-unvaccinated-doctor-among-six-czechs-to-test-positive-for-covid19,,,same flight as other Czech Republic cases
+,Simon Nausch,,2021-07-16,,,,,,,coach,https://www.stuff.co.nz/sport/olympics/125841889/tokyo-olympics-unvaccinated-doctor-among-six-czechs-to-test-positive-for-covid19,,,"same flight as other Czech Republic cases, coach and husband of O-103"
