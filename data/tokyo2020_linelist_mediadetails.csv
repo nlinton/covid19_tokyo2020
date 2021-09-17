@@ -1,14 +1,14 @@
 ﻿id,name,age,arrived,pos_date1,pos_location,vaccinated,symptoms,role,sport,source1,source2,source3,note
-O-068,Fernanda Aguirre,,2021-07-19,2021-07-19,airport,yes,,athlete,taekowndo,https://www.asahi.com/ajw/articles/14403500,,,
-O-061,Ondrej Perusic,,2021-07-16,2021-07-18,olympic village,,yes,athlete,beach volleyball,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,https://www.asahi.com/ajw/articles/14401488,,same flight as other Czech Republic cases
+MG-O-004,Kara Eaker,18,2021-07-15,2021-07-18,Chiba,yes,,athlete,artistic gymnastics,https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article252890358.html,http://www.xinhuanet.com/english/2021-07/20/c_1310072282.htm,,
+O-052,Taylor Crabb,,,,airport,yes,,athlete,beach volleyball,https://www.nytimes.com/live/2021/07/21/sports/olympics-tokyo-updates#taylor-crabb-beach-volleyball-covid,,,
 O-053,Thabiso Monyane or Kamohelo Mahlatsi,,,,olympic village,,,athlete,football,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,,,
 O-054,Thabiso Monyane or Kamohelo Mahlatsi,,,,olympic village,,,athlete,football,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,,,
-O-083,Pavel Sirucek,,2021-07-16,,olympic village,,,athlete,table tennis,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
+O-061,Ondrej Perusic,,2021-07-16,2021-07-18,olympic village,,yes,athlete,beach volleyball,https://www.standard.co.uk/sport/sport-olympics/tokyo-olympics-2021-ondrej-perusic-covid-olympic-village-b946616.html,https://www.asahi.com/ajw/articles/14401488,,same flight as other Czech Republic cases
+O-068,Fernanda Aguirre,,2021-07-19,2021-07-19,airport,yes,,athlete,taekowndo,https://www.asahi.com/ajw/articles/14403500,,,
+O-083,Pavel Sirucek,,2021-07-16,2021-07-21,olympic village,,,athlete,table tennis,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
 O-103,Marketa Nausch Slukova,33,2021-07-16,,olympic village,,,athlete,beach volleyball,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
 O-106,Michal Schlegel,,2021-07-16,,olympic village,,,athlete,road cycling,https://www.france24.com/en/live-news/20210722-czech-pm-blasts-scandal-as-six-positive-for-covid-at-olympics,,,same flight as other Czech Republic cases
 ,Vlastimil Vorcacek,,2021-07-16,2021-07-16,airport,no,,doctor,table tennis,https://www.stuff.co.nz/sport/olympics/125841889/tokyo-olympics-unvaccinated-doctor-among-six-czechs-to-test-positive-for-covid19,,,same flight as other Czech Republic cases
 ,Simon Nausch,,2021-07-16,,,,,coach,beach volleyball,https://www.stuff.co.nz/sport/olympics/125841889/tokyo-olympics-unvaccinated-doctor-among-six-czechs-to-test-positive-for-covid19,,,"same flight as other Czech Republic cases, coach and husband of O-103"
-MG-O-004,Kara Eaker,18,2021-07-15,2021-07-18,Chiba,yes,,athlete,artistic gymnastics,https://www.kansascity.com/sports/spt-columns-blogs/vahe-gregorian/article252890358.html,http://www.xinhuanet.com/english/2021-07/20/c_1310072282.htm,,
-O-052,Taylor Crabb,,,,airport,yes,,athlete,beach volleyball,https://www.nytimes.com/live/2021/07/21/sports/olympics-tokyo-updates#taylor-crabb-beach-volleyball-covid,,,
 ,Hideki Matsuyama,,,,,,,athlete,golf,https://www.nytimes.com/live/2021/07/21/sports/olympics-tokyo-updates#taylor-crabb-beach-volleyball-covid,,,
 ,Milos Vasic,,,,,,,athlete,rowing,https://www.nytimes.com/live/2021/07/21/sports/olympics-tokyo-updates#taylor-crabb-beach-volleyball-covid,,,
